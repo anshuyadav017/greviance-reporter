@@ -345,7 +345,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Sachin Rao**
-- GitHub: [@Sachin23991](https://github.com/Sachin23991)
+- GitHub: [@anshuyadav017](https://github.com/Sachin23991)
 - Project Link: [https://grievance-reporter.vercel.app](https://grievance-reporter.vercel.app)
 
 ## 🙏 Acknowledgments
@@ -361,3 +361,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   <p>Made with ❤️ for better governance</p>
   <p>⭐ Star this repo if you find it useful!</p>
 </div>
+
