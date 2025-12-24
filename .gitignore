@@ -1,0 +1,10 @@
+# Database
+backend/data/
+
+# Dependencies
+node_modules/
+target/
+
+# OS misc
+.DS_Store
+Thumbs.db
